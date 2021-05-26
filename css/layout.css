@@ -1,0 +1,56 @@
+.header-container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.header-logo {
+    padding-top: 20px;
+    padding-bottom: 8px;
+    width: 150px;
+    height: auto;
+}
+
+.left {
+    float: left;
+}
+
+.function-types-ul {
+    width: 70%;
+    margin: 30px auto;
+}
+
+.function-type-li {
+    margin: 40px 60px;
+    padding: 25px 40px;
+}
+
+.plot-div {
+    width: 760px;
+    padding: 20px 30px;
+    margin-top: 20px;
+}
+
+.plot-container {
+    margin-left: 8%;
+    width: 760px;
+}
+
+.slider-container {
+    margin-left: 10%;
+    width: 360px;
+}
+
+.slider-div {
+    width: 100%;
+    padding: 10px 20px;
+    margin-top: 50px;
+}
+
+.slider-div-value {
+    margin-left: 30%;
+}
+
+.slider {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
